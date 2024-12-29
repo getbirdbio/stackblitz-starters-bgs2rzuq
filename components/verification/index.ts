@@ -1,0 +1,1 @@
+export { default as AgeVerification } from './AgeVerification';
